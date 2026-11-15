@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Material Management",
+    "slug": "material-management",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "splash": { "backgroundColor": "#0a64d8" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.example.materialmanagement" },
+    "android": {
+      "package": "com.example.materialmanagement",
+      "adaptiveIcon": { "backgroundColor": "#0a64d8" }
+    }
+  }
+}
